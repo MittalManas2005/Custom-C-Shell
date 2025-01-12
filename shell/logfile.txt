@@ -1,0 +1,15 @@
+exit
+sleep 50 & 
+fg 109093
+sleep 30 & 
+fg 109987
+sleep 20 & 
+activities
+fg 111128
+sleep 100 
+clear
+exit
+sleep 50 & 
+fg 112894
+clear
+exit

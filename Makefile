@@ -1,0 +1,2 @@
+run:
+	gcc shell/color.c shell/signal_handler.c shell/neonate.c shell/fg.c shell/bg.c shell/ping.c shell/activities.c shell/background.c shell/display.c shell/utilities.c shell/execute.c shell/hop.c shell/initialize.c shell/input.c  shell/man.c shell/log.c shell/main.c shell/proclore.c shell/reveal.c shell/seek.c  -o shell/shell -w
