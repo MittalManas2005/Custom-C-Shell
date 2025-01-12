@@ -1,5 +1,5 @@
 
-# Project : Custome C Shell
+# Project : Custom C Shell
 
 
 ## Project Background
